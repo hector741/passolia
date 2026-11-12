@@ -16,4 +16,4 @@ O login da CLI entrou como `hectormanolo-5807`. O primeiro deploy foi para produ
 
 ## Consequências
 
-Depois do login, o comando é `pnpm exec vercel deploy --yes --project passolia --create-if-missing`. Isso cria um deployment de preview. Produção com domínio estável só depois que a URL de preview responder health 200. Não apontar `APP_ENV=production` enquanto Supabase e o segredo do worker não existirem.
+O código de produção entra pelo repositório privado https://github.com/hector741/passolia, branch `main`. A Vercel está ligada a esse Git e faz o build a cada push. As variáveis já gravadas no projeto continuam no painel da Vercel; a chave da OpenAI e o `.env.local` não vão para o Git. Não apontar `APP_ENV=production` enquanto Supabase e o segredo do worker não existirem.
