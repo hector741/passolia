@@ -1,0 +1,456 @@
+{
+  "package_version": "3.0",
+  "date": "2026-11-12",
+  "files": [
+    {
+      "path": ".cursor/rules/passolia.mdc",
+      "size_bytes": 848,
+      "sha256": "f6b2adcf28e2890bdbaae607260595f37d7ab850241a91b157d076c8112e3718"
+    },
+    {
+      "path": "INICIAR_NO_CURSOR_PASSOLIA.md",
+      "size_bytes": 206,
+      "sha256": "2902decdb09a6eae90d84cd9552067581ecabf6ba9b717e42970e9e59cb4ee24"
+    },
+    {
+      "path": "INICIAR_NO_CURSOR_PASSOLIA_FOCO.md",
+      "size_bytes": 2919,
+      "sha256": "ecb0422462d8f439da4ca1a8fc0ffb041784ee1e16f1dc8220073a4f55a205d4"
+    },
+    {
+      "path": "LEIA_ME_PASSOLIA_CURSOR.md",
+      "size_bytes": 188,
+      "sha256": "957a52e98ffc554a1b4baa4322550f6f8fd44f08c919757d58e29828964db219"
+    },
+    {
+      "path": "LEIA_ME_PRIMEIRO.md",
+      "size_bytes": 521,
+      "sha256": "46c688260137c9cf1715f2aaa09bcd565a518c65fc18b574c1edb3be8ba23f4d"
+    },
+    {
+      "path": "MANIFESTO_SHA256.txt",
+      "size_bytes": 8917,
+      "sha256": "a2d63f805287e70c019769eb213102f4b0edd61207d01abd18df7fcb2a5d49a5"
+    },
+    {
+      "path": "PROMPT_MESTRE_CURSOR_PASSOLIA_FOCO_v3.md",
+      "size_bytes": 54128,
+      "sha256": "24e16486c8614373bea39c50d4e9443674435f1277f63bade34731eba3069961"
+    },
+    {
+      "path": "VERIFICACAO_DOCUMENTAL.md",
+      "size_bytes": 198,
+      "sha256": "e4fdd10a9e5ebb610404ca6166894c41bc454f6bea0e92bc16fa7f3546b2e1e1"
+    },
+    {
+      "path": "VERIFICACAO_DOCUMENTAL_FOCO.md",
+      "size_bytes": 987,
+      "sha256": "bdb6c46d1debc164d09e283b964de6bacc1018408c8f44265cafe0200d4620c6"
+    },
+    {
+      "path": "brand/passolia/LEIA-ME.md",
+      "size_bytes": 1789,
+      "sha256": "6a95e6db6dd66d3a7d4a0905a5d800234fb89035df4b0c0f9a2ba77f5681cd68"
+    },
+    {
+      "path": "brand/passolia/ativos/favicon.ico",
+      "size_bytes": 1144,
+      "sha256": "1c0f0b4606133fb4e787752f55f2e0a4884b045795c92932565d72518cf876c0"
+    },
+    {
+      "path": "brand/passolia/ativos/favicon.svg",
+      "size_bytes": 552,
+      "sha256": "034a123ddd176b8ee4be2e91d232bd998437d4fb5d40c9e520f54b1cac0e8205"
+    },
+    {
+      "path": "brand/passolia/ativos/icones_interface/agenda.svg",
+      "size_bytes": 318,
+      "sha256": "57684a725fe60431948ce52d02cb67299d8ca5a46c4264b7740fde5e6aec4997"
+    },
+    {
+      "path": "brand/passolia/ativos/icones_interface/ajustes.svg",
+      "size_bytes": 263,
+      "sha256": "65ac474f509d25a0cc50627c7f59b3c7366b895fcbbeed941d6bbfb817083697"
+    },
+    {
+      "path": "brand/passolia/ativos/icones_interface/captura.svg",
+      "size_bytes": 259,
+      "sha256": "eac7e9f8a6de034dc2723eb559109a3d824ff6628901af2f23ff3fa85c942940"
+    },
+    {
+      "path": "brand/passolia/ativos/icones_interface/casa.svg",
+      "size_bytes": 253,
+      "sha256": "cc00fd814c2528981c3923d618c09d6e9e365218811637bf9d8d46deb4d635cf"
+    },
+    {
+      "path": "brand/passolia/ativos/icones_interface/estudos.svg",
+      "size_bytes": 270,
+      "sha256": "024e0ff6543d6754fd786d90fe5aa45bdf5b463bbf67cffd0fbbe16e963dccd0"
+    },
+    {
+      "path": "brand/passolia/ativos/icones_interface/financas.svg",
+      "size_bytes": 310,
+      "sha256": "9e48bb2cf87c446b35f9feef29bb5fa57033b2d792ecdc9dd59e8ff3a4ecf336"
+    },
+    {
+      "path": "brand/passolia/ativos/icones_interface/lembretes.svg",
+      "size_bytes": 272,
+      "sha256": "d2c21d3cc3f3e2a6bd6e5218b8ac8db62ffc67d5fc476ebf566bc578e98986a3"
+    },
+    {
+      "path": "brand/passolia/ativos/icones_interface/pausa.svg",
+      "size_bytes": 226,
+      "sha256": "983563fcde0320b48d380b1f06046328a5c7b74f0bdf36c51276047aabe2e53a"
+    },
+    {
+      "path": "brand/passolia/ativos/icones_interface/relacoes.svg",
+      "size_bytes": 268,
+      "sha256": "85021a5255044d3529b2cc68d1165e50ab0240efe90dbd3599cc03f5dee1756b"
+    },
+    {
+      "path": "brand/passolia/ativos/icones_interface/replanejar.svg",
+      "size_bytes": 273,
+      "sha256": "b9da4f93f467c4f9665b23ebaf3803dbc3da445e254570d873658daa11f90307"
+    },
+    {
+      "path": "brand/passolia/ativos/icones_interface/tarefas.svg",
+      "size_bytes": 259,
+      "sha256": "66c7c1676ff60963248690183cf9cb7c0e106119a965e125f165ccb03eefad15"
+    },
+    {
+      "path": "brand/passolia/ativos/icones_interface/vestuario.svg",
+      "size_bytes": 278,
+      "sha256": "eb64651fa9f91d07cf07c63cdf534134d8ab0abda3831eda378cc3d47ca9ef88"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-fotografia-exemplo.png",
+      "size_bytes": 2247204,
+      "sha256": "c6d491cef95a2d09f36b971d4946c496a7887a1e2303a752c4eda0fa87096594"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-branco-1600px.png",
+      "size_bytes": 25442,
+      "sha256": "325fc3466969a29dd08025df7ca74e914e52a997ca6a8341b96a9b526f3eb69a"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-branco-400px.png",
+      "size_bytes": 5341,
+      "sha256": "95a2ef74678a805b1a9ba5378fd625d0cba22772bd174dd8aa65c459a4c27048"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-branco-800px.png",
+      "size_bytes": 10875,
+      "sha256": "21a3e806f29f797a2e76e4a9264e1bde235b9e6f1ca79987f20033678d9988b6"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-branco.svg",
+      "size_bytes": 8056,
+      "sha256": "df02e62f7f4ac70702d43f4624ce4841e96563d98c43b31da6e44d3bee3647c9"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-cor-1600px.png",
+      "size_bytes": 30208,
+      "sha256": "9d1b9d29941c59ec484c421d457852757c914bdd65ed44281b75218c6f4a874c"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-cor-400px.png",
+      "size_bytes": 6129,
+      "sha256": "5e434989580c0544c214d36ed21028476d52b0438c6fa368dc15fa521febf7f7"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-cor-800px.png",
+      "size_bytes": 12656,
+      "sha256": "0a76799fbf1fda03727152dacf3da8fa4b70dc665e3c333cb9722d948a085b7e"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-cor.svg",
+      "size_bytes": 8056,
+      "sha256": "8b706a1445981dafa9d660181640e5d26f5a48a632036cb82cf4ddeb0e4b7b19"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-descritor-1600px.png",
+      "size_bytes": 48944,
+      "sha256": "c882798092adee829748a84eb481a676e9a19a2c4564d63e77ded967fca01114"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-descritor-800px.png",
+      "size_bytes": 21183,
+      "sha256": "9f134c18525421134887a3ee99fcb89dd6861c38ae18bde14ab22a2129e2204a"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-descritor.svg",
+      "size_bytes": 39530,
+      "sha256": "e81105a646fdb5b6781db177c4e1fe3715800c47d78fca690092d7bc54d30f71"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-preto-1600px.png",
+      "size_bytes": 23815,
+      "sha256": "24da10dcb29ba0e9ec104339792ecbe59067854bfb9252aca533c5d66ae49dcb"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-preto-400px.png",
+      "size_bytes": 5029,
+      "sha256": "ce0df153ce747c521a145da3f500cdf324948bb7d353312a3abeba5341067bd9"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-preto-800px.png",
+      "size_bytes": 10192,
+      "sha256": "6a43ed45844b584557dc37c49b787e01fbad48994910f536f0cc3b53dc2bb23d"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-preto.svg",
+      "size_bytes": 8056,
+      "sha256": "e97f72edd54807b0f446ac9d702b823b56ce69c8aadfb12b2f11ee71c12567f4"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-slogan-1600px.png",
+      "size_bytes": 45989,
+      "sha256": "370b95a0197c627487abdfb8e13595134981c1e962bf4a5dd20704b0dcd4e62f"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-slogan-800px.png",
+      "size_bytes": 19699,
+      "sha256": "48d51b292273a3363cf275c05b73ac03a36039ff7693da437cf3576ae8c4fb21"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-horizontal-slogan.svg",
+      "size_bytes": 31686,
+      "sha256": "4896c85d0f9d1549169599b84bf4b1399ee6d07b33773b6b87972c8f334acf61"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone-1024px.png",
+      "size_bytes": 14568,
+      "sha256": "0152bcf5c8ea795d08baf774daf042f6d15fd2363f9259436706f07faf18cd3c"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone-128px.png",
+      "size_bytes": 1237,
+      "sha256": "72d77e492662c993fd661f88340de9ef86f998cb22bd6af33a42530fda4393a7"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone-16px.png",
+      "size_bytes": 244,
+      "sha256": "4128d53f63b2deb1746984ab99107a72c1046091c71217f1000dac8950da7c46"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone-180px.png",
+      "size_bytes": 1921,
+      "sha256": "d397fd6c4ae4c2bb9ca9de6c086b1b93f14568a8f9dc4685432944170cd4814a"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone-192px.png",
+      "size_bytes": 1973,
+      "sha256": "fec64b94987a7cbbb28b90f799b70b1ce45e2780bbf19b9c8122b3968ceb054b"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone-24px.png",
+      "size_bytes": 277,
+      "sha256": "3f340e99d60fc50d01911bfd083d7d5170a3416b0075e0b45f72a6ad4d7cc514"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone-256px.png",
+      "size_bytes": 2697,
+      "sha256": "345149f542df1842b15fc43d61bd21f19ed0fbfcf4e1c8223ac019688acf54d3"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone-32px.png",
+      "size_bytes": 341,
+      "sha256": "9cc3fe84b3c5aa9d3b2efe4f9ea64dc382510ef3c1e117e5a7bd74122212bced"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone-48px.png",
+      "size_bytes": 505,
+      "sha256": "686acf28c488e282e558b9d99e0e7e006ccb0f4c7322029dacfc3cd01940ad49"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone-512px.png",
+      "size_bytes": 6057,
+      "sha256": "aaf145726176b8a9fe9ab8034bfa7eb3a75827f24c02addd64ecfe99b1467713"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone-64px.png",
+      "size_bytes": 689,
+      "sha256": "5daeed8f16102dcbedc2acf98293ba0ee7436749efda953633752ef8f1e2ca18"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone-maskable-512px.png",
+      "size_bytes": 5817,
+      "sha256": "13727f7955b3a8a0d6bd084bedbe3d14db26c30e6e4e83952ec3173c0f617251"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone-maskable.svg",
+      "size_bytes": 552,
+      "sha256": "82bcfb8ab1356cac4715e77dea81e797945a3eae47b7d483239f0fd849b03949"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-icone.svg",
+      "size_bytes": 552,
+      "sha256": "034a123ddd176b8ee4be2e91d232bd998437d4fb5d40c9e520f54b1cac0e8205"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-ilustracao-editorial.png",
+      "size_bytes": 1365146,
+      "sha256": "1d24dfe9973b4ceb10d3e9e00f4014d4beaf03341557bb33d9b1c7b22efc94de"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-logotipo-tinta.svg",
+      "size_bytes": 7747,
+      "sha256": "b560d663b0794143a0d26c0cf8f34fc8be40e747d0774a3573cd12c9c70e68e6"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-simbolo-branco.svg",
+      "size_bytes": 421,
+      "sha256": "c6e68b6ad3c700fd5ebd9582496155b14b90b34b218e401f1929a10a52c656d7"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-simbolo-micro.svg",
+      "size_bytes": 421,
+      "sha256": "f90bc4a6d981bc8889f9b8148f118ab426eaf81f4d76616c8f0450c1e36844bc"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-simbolo-preto.svg",
+      "size_bytes": 421,
+      "sha256": "bde16093ae5d801c9c61e0e6f15c4035155317ebe495a1262d3ce0670eeb9a7c"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-simbolo-violeta.svg",
+      "size_bytes": 421,
+      "sha256": "2e4b1951a709b7c47c8aa0a383c81971f01794d9de6671ff9104289ad10700bd"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-vertical-cor-800px.png",
+      "size_bytes": 20678,
+      "sha256": "fe650aae338c4c9ae112f820c7343713dd27098c2f235d822cc07628ee988e20"
+    },
+    {
+      "path": "brand/passolia/ativos/passolia-vertical-cor.svg",
+      "size_bytes": 8103,
+      "sha256": "828fe93d93dff8e7aff822fa022b58f039833d2bf8c9c14311d9c3643e0fcff3"
+    },
+    {
+      "path": "brand/passolia/fontes/Manrope-Bold.ttf",
+      "size_bytes": 97424,
+      "sha256": "8cc0896045f958766da4f078389ca8c7278f70674682dc420a5a93ddb2924f4c"
+    },
+    {
+      "path": "brand/passolia/fontes/Manrope-Medium.ttf",
+      "size_bytes": 97536,
+      "sha256": "9c0c13a6515226383617749f38db4949f96bf61e6545098b97471d92d02cbd80"
+    },
+    {
+      "path": "brand/passolia/fontes/Manrope-Regular.ttf",
+      "size_bytes": 97436,
+      "sha256": "24c7c9c29e802f9416b328cd7cc3933420238b663bdee1a03a3d07e886608c45"
+    },
+    {
+      "path": "brand/passolia/fontes/Manrope-SemiBold.ttf",
+      "size_bytes": 97584,
+      "sha256": "4eb022418c7deee796fe1a0a2e1aea0b10121a1dd27461435959dd1aa397adaf"
+    },
+    {
+      "path": "brand/passolia/fontes/Manrope-Variable.ttf",
+      "size_bytes": 164700,
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+    },
+    {
+      "path": "brand/passolia/fontes/OFL-Manrope.txt",
+      "size_bytes": 4387,
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+    },
+    {
+      "path": "brand/passolia/passolia-tokens.css",
+      "size_bytes": 1613,
+      "sha256": "76ebc2b62e0d07b9733b8a49975c16d562daa51bf49e9eefe8e061a133f13753"
+    },
+    {
+      "path": "brand/passolia/passolia-tokens.json",
+      "size_bytes": 1489,
+      "sha256": "5259f1f187d02f7b4448968cff560bab92dfa32684225638b19595f17743d8cf"
+    },
+    {
+      "path": "docs/foco/MATRIZ_DE_COBERTURA_E_ACEITE_FOCO.md",
+      "size_bytes": 10476,
+      "sha256": "7f5fa68c9f4d4b7914f9a52d6d778b2a2b2d66fec71035ee98639ada951a1b32"
+    },
+    {
+      "path": "docs/foco/PLANO_E_CONTINUIDADE_FOCO.md",
+      "size_bytes": 3432,
+      "sha256": "685e31e054be524b82b37d3ba66aa2aa8f76f901ba095910349c38fc1b19c213"
+    },
+    {
+      "path": "docs/pesquisa/PESQUISA_MODULO_FOCO_PASSOLIA_2026-11-12.md",
+      "size_bytes": 82112,
+      "sha256": "e88feef92a8bbc19e6309d0a4951390e653244efa87176c097abaa862f01ffe6"
+    },
+    {
+      "path": "docs/pesquisa/PESQUISA_MODULO_FOCO_PASSOLIA_2026-11-12.pdf",
+      "size_bytes": 187824,
+      "sha256": "3dda1d2037486bc573c0c401e4cadce36d8603d31c4eb3ebbc1789acfd587ca9"
+    },
+    {
+      "path": "docs/pesquisa/Pesquisa_TDAH_IA_2026-11-09.md",
+      "size_bytes": 68344,
+      "sha256": "2b8ca5011a84b8b94939e23e4eef420341c109a1acea67167e22dee5d5d736f3"
+    },
+    {
+      "path": "docs/pesquisa/Pesquisa_TDAH_Produto_IA_2026-11-09.md",
+      "size_bytes": 96113,
+      "sha256": "9b197727b60f12c6be48874f967ae083ce32819db57e23827848a9923d71d385"
+    },
+    {
+      "path": "docs/projeto/CATALOGO_IA_36_E_20.md",
+      "size_bytes": 11837,
+      "sha256": "f76bfa83e234b7abf9812c09853a0c907790a6bf2c15e2e06552de7d71fa0b10"
+    },
+    {
+      "path": "docs/projeto/CONSOLIDACAO_E_DECISOES.md",
+      "size_bytes": 9388,
+      "sha256": "6b718ce0dd2aeca7096c113f0dbd2d3cf81131852f56d97c20917f85876cfad8"
+    },
+    {
+      "path": "docs/projeto/MATRIZ_DE_COBERTURA_E_ACEITE.md",
+      "size_bytes": 44462,
+      "sha256": "e6cc4d194b71e710eb30d0d6c7a9304729a0feff5380e87b631ff950dc1751cb"
+    },
+    {
+      "path": "docs/projeto/PLANO_E_PROMPTS_POR_ETAPA.md",
+      "size_bytes": 38712,
+      "sha256": "e168e8de7f2f469310a53ca58342a34c273ce7fb03ca83b9e9126c663832649e"
+    },
+    {
+      "path": "docs/projeto/PROMPT_DE_CONTINUIDADE.md",
+      "size_bytes": 1685,
+      "sha256": "528d7127272aad03678e96c08a2b8e4c4d0d74cafb8d3c7708d732a1f5e6eb4c"
+    },
+    {
+      "path": "docs/projeto/PROMPT_MESTRE_CURSOR_PASSOLIA.md",
+      "size_bytes": 147018,
+      "sha256": "9f437effed06d670ac0711a6b5b00c85a65445359d62ef32c14b2b3711d50afd"
+    },
+    {
+      "path": "docs/referencia/Estudo_Nomes_Identidade_App_Organizacao_2026-11-10.md",
+      "size_bytes": 32818,
+      "sha256": "41a9880302a330da0f63305e751b4d9b55f8e1d60a10ad593ddc5ae728e32f43"
+    },
+    {
+      "path": "docs/referencia/Passolia_Manual_Completo_Identidade_Visual_v1.pdf",
+      "size_bytes": 6117799,
+      "sha256": "94bf6c459f3ebcb63068472c96ee885f2c4cc2c94a2e12a8c00dda34547511e9"
+    },
+    {
+      "path": "docs/referencia/instrucoes_v2/INICIAR_NO_CURSOR_PASSOLIA.md",
+      "size_bytes": 2203,
+      "sha256": "23b84df40024da998d8212577698a4c4944256b5d7bdd730a1dc781e8918fc69"
+    },
+    {
+      "path": "docs/referencia/instrucoes_v2/LEIA_ME_PASSOLIA_CURSOR.md",
+      "size_bytes": 2254,
+      "sha256": "475239593f075d95f948906ed40d05d228cc8e67f70a073346f1c0e8539386e2"
+    },
+    {
+      "path": "docs/referencia/instrucoes_v2/VERIFICACAO_DOCUMENTAL.md",
+      "size_bytes": 2384,
+      "sha256": "13c4f7e7b5066c4dce2233c731d4e1d6ecd93ff0721b99df3c16015e4cbd25b1"
+    }
+  ]
+}

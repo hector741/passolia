@@ -1,0 +1,18 @@
+export const limits = {
+  titleCharacters: 200,
+  manualDescriptionCharacters: 10_000,
+  captureCharacters: 6_000,
+  batchSteps: 50,
+  pageSizeDefault: 50,
+  pageSizeMax: 100,
+  jsonPayloadBytes: 64 * 1024,
+  garmentImageBytes: 10 * 1024 * 1024,
+  audioSeconds: 120,
+  audioBytes: 20 * 1024 * 1024,
+  ocrPages: 20,
+  ocrBytes: 20 * 1024 * 1024,
+  importBatchBytes: 10 * 1024 * 1024,
+  aiRequestsPerMinute: 5,
+  invitationDays: 7,
+  proposalHours: 24,
+} as const;

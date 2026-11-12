@@ -1,0 +1,13 @@
+---
+description: Invariantes de produto, autorização e evidência
+alwaysApply: true
+---
+
+Leia docs/CHECKPOINT.md e docs/plano-etapas.md antes de continuar.
+Leia a seção pertinente do prompt mestre e o contrato do módulo antes de alterar.
+IA propõe; servidor autoriza e valida; usuário confirma alterações relevantes.
+Não usar cliente administrativo para consultas comuns de usuário.
+Não concluir tarefa, pagamento ou acordo por inferência de linguagem.
+Não marcar integração, teste humano ou fase como concluídos sem evidência.
+Execute os checks pertinentes e atualize rastreabilidade e checkpoint.
+Preserve alterações existentes e mantenha o caminho manual sem IA.

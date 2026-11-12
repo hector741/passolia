@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f7f4ef;
+  --foreground: #242235;
+  --surface: #ffffff;
+  --action: #5b4bc4;
+  --action-text: #ffffff;
+  --muted: #625e73;
+  --line: #d9d5e4;
+  --control: #625e73;
+  color-scheme: light;
+}
+
+[data-theme="dark"] {
+  --background: #242235;
+  --foreground: #f7f4ef;
+  --surface: #302d44;
+  --action: #dad4f5;
+  --action-text: #242235;
+  --muted: #cfc9df;
+  --line: #746d88;
+  --control: #cfc9df;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-action: var(--action);
+  --color-action-text: var(--action-text);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --font-sans: var(--font-manrope), "Segoe UI", sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid var(--action);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    scroll-behavior: auto !important;
+    transition: none !important;
+  }
+}

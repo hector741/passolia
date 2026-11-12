@@ -1,0 +1,15 @@
+---
+description: Contratos do produto Passólia e continuidade do desenvolvimento
+alwaysApply: true
+---
+
+Inspecione instruções, Git e estado real antes de editar. Preserve trabalho existente.
+Contrato: `docs/projeto/PROMPT_MESTRE_CURSOR_PASSOLIA.md`.
+Origem/decisões: `docs/projeto/CONSOLIDACAO_E_DECISOES.md`.
+Aceite: `docs/projeto/MATRIZ_DE_COBERTURA_E_ACEITE.md`.
+Retome pelo checkpoint em `docs/CHECKPOINT.md`; crie-o na F00 se ausente.
+Reutilize a identidade original em `brand/passolia/`. Não redesenhe o logo.
+Autorização, persistência e alternativa manual fazem parte da entrega.
+IA propõe; servidor valida e só aplica após confirmação apropriada.
+Não confunda mock, teste não executado e integração real. Registre evidências e bloqueios.
+Continue em fatias verificáveis e atualize estado/rastreabilidade ao concluí-las.

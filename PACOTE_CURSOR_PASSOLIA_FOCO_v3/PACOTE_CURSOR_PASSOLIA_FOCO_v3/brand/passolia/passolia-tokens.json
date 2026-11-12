@@ -1,0 +1,81 @@
+{
+  "brand": {
+    "violet": "#5B4BC4",
+    "lavender": "#DAD4F5",
+    "paper": "#F7F4EF",
+    "ink": "#242235",
+    "terracotta": "#D88469"
+  },
+  "light": {
+    "background": "#F7F4EF",
+    "surface": "#FFFFFF",
+    "text": "#242235",
+    "mutedText": "#625E73",
+    "border": "#D9D5E4",
+    "controlBorder": "#625E73",
+    "primary": "#5B4BC4",
+    "primaryHover": "#493AA8",
+    "onPrimary": "#FFFFFF",
+    "focus": "#5B4BC4"
+  },
+  "dark": {
+    "background": "#242235",
+    "surface": "#302D44",
+    "text": "#F7F4EF",
+    "mutedText": "#CFC9DF",
+    "border": "#746D88",
+    "controlBorder": "#CFC9DF",
+    "primary": "#DAD4F5",
+    "onPrimary": "#242235",
+    "focus": "#DAD4F5"
+  },
+  "semantic": {
+    "success": "#1E6B4A",
+    "success_bg": "#E8F4EC",
+    "warning": "#8A5400",
+    "warning_bg": "#FFF1D6",
+    "error": "#AD303E",
+    "error_bg": "#FCECF0",
+    "info": "#315AA6",
+    "info_bg": "#EAF0FC"
+  },
+  "type": {
+    "family": "Manrope",
+    "weights": [
+      400,
+      500,
+      600,
+      700
+    ],
+    "bodyPx": 16,
+    "bodyLineHeight": 1.5,
+    "smallPx": 14,
+    "h1Px": 32,
+    "h2Px": 24,
+    "h3Px": 20
+  },
+  "spacingPx": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "radiiPx": {
+    "control": 10,
+    "card": 16,
+    "panel": 24
+  },
+  "motion": {
+    "durationMs": 180,
+    "reducedMotion": "disable nonessential transitions"
+  },
+  "controls": {
+    "preferredHeightPx": 44,
+    "focusRingPx": 2,
+    "focusOffsetPx": 2
+  }
+}

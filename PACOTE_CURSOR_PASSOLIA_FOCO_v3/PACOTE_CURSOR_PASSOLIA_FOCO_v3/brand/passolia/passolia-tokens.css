@@ -1,0 +1,56 @@
+/* Passólia - identidade visual v1.0. Base visual: integrar aos componentes. */
+@font-face {
+  font-family: "Manrope";
+  src: url("./fontes/Manrope-Variable.ttf") format("truetype");
+  font-weight: 200 800;
+  font-style: normal;
+  font-display: swap;
+}
+:root {
+  --font-family: "Manrope", system-ui, sans-serif;
+  --font-body-size: 16px;
+  --font-body-line-height: 1.5;
+  --motion-duration: 180ms;
+  --brand-violet: #5B4BC4;
+  --brand-lavender: #DAD4F5;
+  --brand-paper: #F7F4EF;
+  --brand-ink: #242235;
+  --brand-terracotta: #D88469;
+  --color-success: #1E6B4A;
+  --color-success-bg: #E8F4EC;
+  --color-warning: #8A5400;
+  --color-warning-bg: #FFF1D6;
+  --color-error: #AD303E;
+  --color-error-bg: #FCECF0;
+  --color-info: #315AA6;
+  --color-info-bg: #EAF0FC;
+  --color-background: #F7F4EF;
+  --color-surface: #FFFFFF;
+  --color-text: #242235;
+  --color-muted-text: #625E73;
+  --color-border: #D9D5E4;
+  --color-control-border: #625E73;
+  --color-primary: #5B4BC4;
+  --color-primary-hover: #493AA8;
+  --color-on-primary: #FFFFFF;
+  --color-focus: #5B4BC4;
+  --radius-control: 10px;
+  --radius-card: 16px;
+  --radius-panel: 24px;
+  --control-height: 44px;
+}
+[data-theme="dark"] {
+  --color-background: #242235;
+  --color-surface: #302D44;
+  --color-text: #F7F4EF;
+  --color-muted-text: #CFC9DF;
+  --color-border: #746D88;
+  --color-control-border: #CFC9DF;
+  --color-primary: #DAD4F5;
+  --color-on-primary: #242235;
+  --color-focus: #DAD4F5;
+}
+/* Os componentes devem consumir --motion-duration nas transições não essenciais. */
+@media (prefers-reduced-motion: reduce) {
+  :root { --motion-duration: 0ms; }
+}
