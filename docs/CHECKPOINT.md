@@ -3,7 +3,7 @@
 - Data: 2026-11-12
 - Fase concluída nesta sessão: F00 verificada; F01 verificada na base web local
 - Git: repositório privado https://github.com/hector741/passolia, branch `main`. `.env.local`, `data/` e `node_modules` ficaram de fora. A Vercel do projeto `passolia` está ligada a esse repositório e passa a construir a partir do GitHub.
-- Uso diário: Hoje, Planejar, Rotinas, Minha vida e Preferências. Os dados ficam no IndexedDB deste navegador. Produção em https://passolia.vercel.app (deployment dpl_nM9WJZhaLNFzNPcuUb3MQ8eQcFe1, READY). `AI_ENABLED=true` e `OPENAI_TEXT_MODEL=gpt-6-astra` estão no projeto. A chave continua ausente do servidor.
+- Uso diário: Hoje, Planejar, Rotinas, Minha vida e Preferências. Os dados ficam no IndexedDB deste navegador. Produção em https://passolia.vercel.app. O push de `main` gerou o deployment `dpl_GLUqB7FdSb6X7RhKfdryoBJzDY3j`, READY, com alias `passolia-git-main`. `AI_ENABLED=true` e `OPENAI_TEXT_MODEL=gpt-6-astra` estão no projeto. A chave continua ausente do servidor.
 - OpenAI: dividir uma tarefa exige pelo menos três ações menores. Um passo igual ao título, mesmo com “meu”, “o” ou “começar a”, é recusado e a OpenAI é chamada de novo uma vez. A chave guardada em Preferências fica no cookie deste navegador e, quando o disco permite, em `data/openai-key` (gitignored). Ela não volta na resposta.
 - Foco MP00–MP04: ciclo manual em `/foco`, gravado no IndexedDB. RLS, push, segundo aparelho e offline de sessão continuam bloqueados ou planejados.
 - Próxima unidade: aviso escolhido só quando houver job real. Conta Supabase continua pendente de confirmação de custo.
